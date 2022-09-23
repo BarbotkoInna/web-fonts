@@ -93,5 +93,7 @@ a {
     padding-bottom: 40px;
 }
 
-
+.text-holder p:last-child {
+    padding-bottom: 0; 
+}
 
